@@ -78,6 +78,25 @@ To improve or enhance this code, you can do the following:
 * Increase the accuracy and performance of hand gesture detection using more advanced techniques.
 * Train the model using larger datasets.
 * Explore different applications of hand gesture recognition.
+  
+**Images**
+
+![Ekran görüntüsü 2023-06-14 111900](https://github.com/serkanyetisen/Hand_Project/assets/64671833/ce74624a-9ac1-49e2-bc35-fca718cc0948)
+![Ekran görüntüsü 2023-06-14 111927](https://github.com/serkanyetisen/Hand_Project/assets/64671833/cc7e6b9d-52da-48aa-8d73-411eb861e940)
+![Ekran görüntüsü 2023-06-14 111235](https://github.com/serkanyetisen/Hand_Project/assets/64671833/1b3df465-bd9c-426d-aef0-09bded95dd6f)
+![Ekran görüntüsü 2023-06-14 111258](https://github.com/serkanyetisen/Hand_Project/assets/64671833/d4b9b2a5-301f-49ab-96bf-333e4abfe318)
+![Ekran görüntüsü 2023-06-14 111322](https://github.com/serkanyetisen/Hand_Project/assets/64671833/f1e5cc9e-2050-48a7-9376-d03d15ee55d1)
+![Ekran görüntüsü 2023-06-14 111355](https://github.com/serkanyetisen/Hand_Project/assets/64671833/e5244516-7f69-4754-bd81-6829ce6adba7)
+![Ekran görüntüsü 2023-06-14 111548](https://github.com/serkanyetisen/Hand_Project/assets/64671833/a373bea8-0b1b-4ffd-ae40-4909335f843c)
+![Ekran görüntüsü 2023-06-14 111603](https://github.com/serkanyetisen/Hand_Project/assets/64671833/f6534d43-fa0a-4923-b8e3-c8582aece139)
+![Ekran görüntüsü 2023-06-14 111722](https://github.com/serkanyetisen/Hand_Project/assets/64671833/4dda9618-b6ab-4342-8328-e829d3b9b2ff)
+![Ekran görüntüsü 2023-06-14 111740](https://github.com/serkanyetisen/Hand_Project/assets/64671833/6721ca96-b105-4bba-96dc-874b1723ec4f)
+![Ekran görüntüsü 2023-06-14 111756](https://github.com/serkanyetisen/Hand_Project/assets/64671833/a4b26e75-6ea6-43b1-9149-ec97b67bdf10)
+![Ekran görüntüsü 2023-06-14 111808](https://github.com/serkanyetisen/Hand_Project/assets/64671833/29a51cc4-9fd0-4664-abce-67e4298a7c81)
+![Ekran görüntüsü 2023-06-14 111824](https://github.com/serkanyetisen/Hand_Project/assets/64671833/3c980135-3db2-4d02-bbe5-45288ea0cc8e)
+![Ekran görüntüsü 2023-06-14 111835](https://github.com/serkanyetisen/Hand_Project/assets/64671833/b0d0db02-f6ee-46b8-acc0-142a18d1525e)
+![Ekran görüntüsü 2023-06-14 111850](https://github.com/serkanyetisen/Hand_Project/assets/64671833/10220d10-3807-42fc-8fc1-e4f4590bc779)
+
 
 **Performance**
 
